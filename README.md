@@ -5,3 +5,4 @@ This repository contains useful code
 | :-: | :------------------: | :-------:|
 | 01 | Generate a random number between the given limits |[code](https://github.com/abhilashkakumanu1/Resources/blob/master/random-number/index.js) |
 | 02 | Linked list implementation  | [code](https://github.com/abhilashkakumanu1/Resources/blob/master/linked-list/index.js) |
+| 03 | Stack implementation | [code](https://github.com/abhilashkakumanu1/Resources/blob/master/stack/index.js)
